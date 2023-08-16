@@ -11,5 +11,5 @@ Los cursos que personalmente considero como más relevantes durante mi carrera p
 
 A continuación puede encontrar más información sobre mi:
 
-- [Habilidades](pages/habilidades.md).
+- [Habilidades](pages/habilidades.md){:class="img-responsive"}.
 - [CV](pages/cv.md).
