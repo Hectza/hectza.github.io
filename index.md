@@ -11,5 +11,7 @@ Los cursos que personalmente considero como más relevantes durante mi carrera p
 
 A continuación puede encontrar más información sobre mi:
 
-- [Habilidades](pages/habilidades.md){:class="img-responsive"}.
+- [Habilidades](pages/habilidades.md).
 - [CV](pages/cv.md).
+- [<img src="/assets/linkedin.png" width='50' height='50'>](https://www.linkedin.com/in/hdelgadoa/)
+
