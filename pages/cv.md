@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Overview of GitHub Pages
-description: Overview of construction of a website with GitHub Pages
+title: Mi Curriculum Vitae
+description: Mi curriculum vitae en una página
 ---
 Mi CV es el siguiente:
 
