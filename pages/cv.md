@@ -5,4 +5,4 @@ description: Mi curriculum vitae en una página
 ---
 Mi CV es el siguiente:
 
-![CV](assets/cv.jpg)
+![CV](../assets/cv.jpg)
