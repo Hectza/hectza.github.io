@@ -14,4 +14,3 @@ A continuación puede encontrar más información sobre mi:
 - [Habilidades](pages/habilidades.md)
 - [CV](pages/cv.md)
 - LinkedIn: [<img src="/assets/linkedin.png" width='50' height='50'>](https://www.linkedin.com/in/hdelgadoa/)
-
